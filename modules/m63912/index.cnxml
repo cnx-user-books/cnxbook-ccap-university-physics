@@ -1,0 +1,101 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Preface</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63912</md:content-id>
+  <md:title>Preface</md:title>
+  <md:abstract/>
+  <md:uuid>a35cbbd9-cd0b-4a0f-b2b8-6e0729bacdc0</md:uuid>
+</metadata>
+
+<content>
+    <para id="fs-idm1348498800">Welcome to <emphasis effect="italics">Title</emphasis>, an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost.</para>
+    <section id="fs-idm1290074352">
+        <title>About OpenStax</title>
+        <para id="fs-idm1169252512">OpenStax is a nonprofit based at Rice University, and it’s our mission to improve student access to education. Our first openly licensed college textbook was published in 2012, and our library has since scaled to over 25 books for college and AP<sup>®</sup> courses used by hundreds of thousands of students. Our adaptive learning technology, designed to improve learning outcomes through personalized educational paths, is being piloted in college courses throughout the country. Through our partnerships with philanthropic foundations and our alliance with other educational resource organizations, OpenStax is breaking down the most common barriers to learning and empowering students and instructors to succeed.</para>
+    </section>
+    <section id="fs-idm1449112944">
+        <title>About OpenStax Resources</title>
+        <section id="fs-idm1202205248">
+            <title>Customization</title>
+            <para id="fs-idm1993205712"><emphasis effect="italics">Title</emphasis> is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors.</para>
+            <para id="fs-idm408116560">Because our books are openly licensed, you are free to use the entire book or pick and choose the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.</para>
+            <para id="fs-idm361966192">Faculty also have the option of creating a customized version of their OpenStax book through the aerSelect platform. The custom version can be made available to students in low-cost print or digital form through their campus bookstore. Visit your book page on openstax.org for a link to your book on aerSelect.</para>
+        </section>
+        <section id="fs-idm1134927072">
+            <title>Errata</title>
+            <para id="fs-idm1434924704">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on openstax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on openstax.org.</para>
+        </section>
+        <section id="fs-idm1200453520">
+            <title>Format</title>
+            <para id="fs-idm1342424608">You can access this textbook for free in web view or PDF through openstax.org, and for a low cost in print.</para>
+        </section>
+    </section>
+    <section id="fs-idm1329163088">
+        <title>About <emphasis effect="italics">Title</emphasis></title>
+        <para id="fs-idm1164792208"><emphasis effect="italics">Title</emphasis> is designed to meet the scope and sequence requirements of [include typical course title, and semester length of course if pertinent]. [List notable elements of the book that are important for this subject; specify the targeted student audience if not for a general audience. Blurb to be approved by OSX marketing team.]</para>
+        <section id="fs-idm1339618800">
+            <title>Coverage and Scope</title>
+            <para id="fs-idm1207598336">
+                <!--[book-dependent]
+                [include brief list of contents – format dependent on the book]
+                [Following is an example...]-->
+                <emphasis effect="italics">Title</emphasis> follows a nontraditional approach in its presentation of content. Building on the content in <emphasis effect="italics">Prealgebra</emphasis>, the material is presented as a sequence of small steps so that students gain confidence in their ability to succeed in the course. The order of topics was carefully planned to emphasize the logical progression through the course and to facilitate a thorough understanding of each concept. As new ideas are presented, they are explicitly related to previous topics.
+            </para>
+            <list id="fs-idm1448732320">
+                <item><emphasis effect="bold">Chapter 1: Foundations</emphasis><newline/>Chapter 1 reviews arithmetic operations with whole numbers, integers, fractions, and decimals, to give the student a solid base that will support their study of algebra.</item>
+                <item><emphasis effect="bold">Chapter 2: Solving Linear Equations and Inequalities</emphasis><newline/>In Chapter 2, students learn to verify a solution of an equation, solve equations using the Subtraction and Addition Properties of Equality, solve equations using the Multiplication and Division Properties of Equality, solve equations with variables and constants on both sides, use a general strategy to solve linear equations, solve equations with fractions or decimals, solve a formula for a specific variable, and solve linear inequalities.</item>
+                <item><emphasis effect="bold">Chapter 3: Math Models</emphasis><newline/>Once students have learned the skills needed to solve equations, they apply these skills in Chapter 3 to solve word and number problems.</item>
+                <item><emphasis effect="bold">Chapter 4: Graphs</emphasis><newline/>Chapter 4 covers the rectangular coordinate system, which is the basis for most consumer graphs. Students learn to plot points on a rectangular coordinate system, graph linear equations in two variables, graph with intercepts, understand slope of a line, use the slope-intercept form of an equation of a line, find the equation of a line, and create graphs of linear inequalities.</item>
+            </list>
+        </section>
+        <section id="fs-idm1114007888">
+            <!--[further H3s vary by book. Most books should have a Pedagogical Foundation section. Other sections include Engaging Feature Boxes, Assessments That Reinforce Key Concepts, Comprehensive Art Program, Interactives That Engage, Key Features, Section Quizzes, etc. We should use headers we’ve used in existing books if possible. All should be H3 under the greater “About Title” heading.]
+            [Following is an example...]-->
+            <title>Key Features and Boxes</title>
+            <para id="fs-idm1335004256"><emphasis effect="bold">Examples</emphasis> Each learning objective is supported by one or more worked examples, which demonstrate the problem-solving approaches that students must master. Typically, we include multiple examples for each learning objective to model different approaches to the same type of problem, or to introduce similar problems of increasing complexity.</para>
+            <para id="fs-idm402305552">All examples follow a simple two- or three-part format. First, we pose a problem or question. Next, we demonstrate the solution, spelling out the steps along the way. Finally (for select examples), we show students how to check the solution. Most examples are written in a two-column format, with explanation on the left and math on the right to mimic the way that instructors “talk through” examples as they write on the board in class.</para>
+            <section id="fs-idm408813408"><title>Test H4</title><para id="fs-idm386091824">Test</para></section>
+        </section>
+    </section>
+    <section id="fs-idm1329538368">
+        <title>Additional Resources</title>
+        <section id="fs-idm1327857792">
+            <title>Student and Instructor Resources</title>
+            <para id="fs-idm1443621424">We’ve compiled additional resources for both students and instructors, including Getting Started Guides, [other resources dependent on book]. Instructor resources require a verified instructor account, which can be requested on your openstax.org log-in. Take advantage of these resources to supplement your OpenStax book.</para>
+        </section>
+        <section id="fs-idm1166021776">
+            <title>Partner Resources</title>
+            <para id="fs-idm361867408">OpenStax Partners are our allies in the mission to make high-quality learning materials affordable and accessible to students and instructors everywhere. Their tools integrate seamlessly with our OpenStax titles at a low cost. To access the partner resources for your text, visit your book page on openstax.org.</para>
+        </section>
+    </section>
+    <section id="fs-idm372300848">
+        <title>About the Authors</title>
+        <section id="fs-idm345635920" class="sr-contrib-auth">
+            <title>Senior Contributing Authors</title>
+            <para id="fs-idm408358032">
+                <emphasis>First name, Last name, University</emphasis><newline/>[Senior Contributing Authors can have bios, should be 100 words or less]
+            </para>
+            <para id="fs-idm1199620304">
+                <emphasis>First name, Last name, University</emphasis><newline/>[Senior Contributing Authors can have bios, should be 100 words or less]
+            </para>
+        </section>
+        <section id="fs-idm402036880" class="contrib-auth">
+            <title>Contributing Authors</title>
+            <para id="fs-idm363213840">
+                First name, Last name, University<newline/>
+                First name, Last name, University
+            </para>
+        </section>
+        <section id="fs-idm1124714496">
+            <title>Reviewers</title>
+            <para id="fs-idm1143208400">
+                First name, Last name, University<newline/>
+                First name, Last name, University
+            </para>
+        </section>
+    </section>
+</content>
+
+
+</document>
